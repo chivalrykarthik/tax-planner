@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tax-planner/precache-manifest.5c5623a78d89553df60f557af6ec337e.js"
+  "/tax-planner/precache-manifest.31d41510705609ab31c1d890d2aac023.js"
 );
 
 self.addEventListener('message', (event) => {
