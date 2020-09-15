@@ -34,7 +34,7 @@ const HeaderCmp = () => {
           ></IconButton>
           <MonetizationOnRoundedIcon />
           <Typography variant="h6" className={classes.title}>
-            Tax Planner
+            Tax Plannerr
           </Typography>
           {/*<Button color="inherit">Login</Button>*/}
         </Toolbar>

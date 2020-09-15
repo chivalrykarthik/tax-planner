@@ -2,7 +2,7 @@
   "name": "tax-planner",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://chivalrykarthik.github.io/tax-planner",  
+  "homepage": "/tax-planner",
   "dependencies": {
     "@material-ui/icons": "^4.9.1",
     "@testing-library/jest-dom": "^4.2.4",
