@@ -58,17 +58,22 @@ const Result: React.FC<FinalData> = (props) => {
           <RowCmp
             text="Tax excemption"
             actual={props.incomeAfterExcemption}
-            deduction={constants.TAX_EXCEMPTION}
+            deduction={props.totalIncome ? constants.TAX_EXCEMPTION : ''}
           />
           <RowCmp
             text="Conveyance"
             actual={props.incomeAfterConveyance}
-            deduction={constants.CONVEYANCE}
+            deduction={props.totalIncome ? constants.CONVEYANCE : ''}
           />
           <RowCmp
-            text="Other Investments & Dedcutions"
+            text="Total Investments & Dedcutions"
             actual={props.incomeAfterDeduction}
-            deduction={props.totalDeductions}
+            deduction={
+              props.totalDeductions +
+              props.totalInvestment +
+              props.totalLoanInterest +
+              props.totalLoanOther
+            }
           />
           {splitUpRows}
           <RowCmp text="Tax Payable" actual={props.totalTaxPayable} />
