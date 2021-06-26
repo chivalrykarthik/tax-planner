@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tax-planner/static/css/main.5f361e03.chunk.css",
+    "main.css": "/tax-planner/static/css/main.7f904051.chunk.css",
     "main.js": "/tax-planner/static/js/main.bb5d5cc9.chunk.js",
     "main.js.map": "/tax-planner/static/js/main.bb5d5cc9.chunk.js.map",
     "runtime-main.js": "/tax-planner/static/js/runtime-main.a4401b72.js",
@@ -8,15 +8,15 @@
     "static/js/2.6a703402.chunk.js": "/tax-planner/static/js/2.6a703402.chunk.js",
     "static/js/2.6a703402.chunk.js.map": "/tax-planner/static/js/2.6a703402.chunk.js.map",
     "index.html": "/tax-planner/index.html",
-    "precache-manifest.3ff1fc9aadf78b9cdd717148edee15db.js": "/tax-planner/precache-manifest.3ff1fc9aadf78b9cdd717148edee15db.js",
+    "precache-manifest.a9b8d60cdc13b3b53389b293c1b8bc97.js": "/tax-planner/precache-manifest.a9b8d60cdc13b3b53389b293c1b8bc97.js",
     "service-worker.js": "/tax-planner/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/tax-planner/static/css/main.5f361e03.chunk.css.map",
+    "static/css/main.7f904051.chunk.css.map": "/tax-planner/static/css/main.7f904051.chunk.css.map",
     "static/js/2.6a703402.chunk.js.LICENSE.txt": "/tax-planner/static/js/2.6a703402.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a4401b72.js",
     "static/js/2.6a703402.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
+    "static/css/main.7f904051.chunk.css",
     "static/js/main.bb5d5cc9.chunk.js"
   ]
 }
